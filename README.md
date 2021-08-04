@@ -1,7 +1,7 @@
 # Image segmenation
 
 <p align="middle">
-![Example](/assets/example.png)
+	<img src="/assets/example.png">
 </p>
 
 В данном ноутбуке содержится имплементация разных архитектур сверточных нейронных сетей для решения задачи сегментации изображений.
@@ -14,28 +14,28 @@
 
 Для обучения сверточных нейронных сетей был использован датасет PH2. Датасет состоит из 200 снимков поражений кожи и их сегментированных изображений.
 
-![Dataset_sample](/assets/dataset_sample.png)
+<img src="/assets/dataset_sample.png">
 
 ## Segnet
 <p align="middle">
-	![Segnet](/images/segnet.png)
+	<img src="/images/segnet.png">
 </p>
 
 ###Segnet результаты
 
 <p align="middle">
-	![Segnet_res](/images/segnet_res.png)
+	<img src="/images/segnet_res.png">
 </p>
 
 ##Unet
 
 <p align="middle">
-	![Unet](/images/unet.png)
+	<img src="/images/unet.png">
 </p>
 
 ###Unet результаты
 <p align="middle">
-	![Unet_res](/images/unet_res.png)
+	<img src="/images/unet_res.png">
 </p>
 
 ###Unet-2
@@ -44,7 +44,7 @@
 
 ###Unet-2 результаты
 <p align="middle">
-	![Unet2_res](/images/unet2_res.png)
+	<img src="/images/unet2_res.png">
 </p>
 
 ##Заключение
