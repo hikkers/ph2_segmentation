@@ -18,24 +18,24 @@
 
 ## Segnet
 <p align="middle">
-	<img src="/images/segnet.png">
+	<img src="/assets/segnet.png">
 </p>
 
 ###Segnet результаты
 
 <p align="middle">
-	<img src="/images/segnet_res.png">
+	<img src="/assets/segnet_res.png">
 </p>
 
 ##Unet
 
 <p align="middle">
-	<img src="/images/unet.png">
+	<img src="/assets/unet.png">
 </p>
 
 ###Unet результаты
 <p align="middle">
-	<img src="/images/unet_res.png">
+	<img src="/assets/unet_res.png">
 </p>
 
 ###Unet-2
@@ -44,7 +44,7 @@
 
 ###Unet-2 результаты
 <p align="middle">
-	<img src="/images/unet2_res.png">
+	<img src="/assets/unet2_res.png">
 </p>
 
 ##Заключение
