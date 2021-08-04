@@ -21,28 +21,28 @@
 	<img src="/assets/segnet.png">
 </p>
 
-###Segnet результаты
+### Segnet результаты
 
 <p align="middle">
 	<img src="/assets/segnet_res.png">
 </p>
 
-##Unet
+## Unet
 
 <p align="middle">
 	<img src="/assets/unet.png">
 </p>
 
-###Unet результаты
+### Unet результаты
 <p align="middle">
 	<img src="/assets/unet_res.png">
 </p>
 
-###Unet-2
+### Unet-2
 В данной имплементации **Unet** операции **Maxpooling** и **Upsample** заменены на сверточные слои **Convolutions** и **Transpose-convolutions**.
 
 
-###Unet-2 результаты
+### Unet-2 результаты
 <p align="middle">
 	<img src="/assets/unet2_res.png">
 </p>
